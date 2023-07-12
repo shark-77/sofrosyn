@@ -1,0 +1,56 @@
+
+.deck-content{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    color: #121212;  
+    height: 200px; 
+  }
+  .deck-content p{
+    font-size: 22px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  .deck-span{
+    font-size: 44px;
+    font-weight: bold;
+    color: #000000;
+  }
+  .row-1{
+    /* gap: 10px; */
+    width: 75%;
+    margin-left: 13%;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  
+  }
+  .row-1 p{
+    margin-left: 10px;
+    padding-top: px;
+    font-size: 14px;
+    color: #080000;
+  }
+  .photo-row{
+    margin-top: 20px;
+  }
+  .frf-xxx{
+    display: flex;
+    flex-direction: row;
+    width: 60%;
+    height: 170px;
+    position: relative; 
+  }
+  .frf-xxx p{
+    position: relative;
+    top: 4px;
+  }
+  .bbb{
+    font-weight: bold;
+    font-size: 22px;
+    position: relative;
+    top: 8px;
+  }
+  

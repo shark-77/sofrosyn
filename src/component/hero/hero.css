@@ -1,0 +1,55 @@
+/* Section-1 */
+.section_1{
+    height: 750px;
+    width: 100%;
+    background: #1354dc;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+  }
+  .hh12 h1{ 
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-top: 230px;
+    font-size: 4.5vw;
+    color: #ffffff;
+  }
+  h5{  
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    font-weight: lighter;
+    color: #ffffff;
+    position: relative;
+  }
+  .right-shape_sectxxx{
+    position: absolute;
+    right: 0px;
+  }
+  .left_shape{
+    position: absolute;
+    top: 530px;
+  }
+  .rounded_design{
+    position: absolute;
+    top:400px;
+    left: 80px;
+  }
+  .btn-div{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-top: 35px;
+  }
+  .btn-section-1{
+    height: 50px;
+    width: 21%;
+    justify-content: space-between;
+    display: flex;
+    margin-top: 2px ;
+  }
+  

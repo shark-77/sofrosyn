@@ -1,0 +1,75 @@
+/* SECTION-7 */
+.section_7{
+    position: relative;
+    
+    background: #ffc3c3;
+    }
+    .section-content{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    color: #121212;
+    height: 250px; 
+    border: 1px solid  #ffc3c3;
+    }
+    .section-span{
+    font-size: 44px;
+    font-weight: bold;
+    color: #000000;
+    margin-top: 3%;
+    }
+    .section-content p{
+    font-size: 22px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 5%;
+    gap: 25px;
+    }
+    .section-container{
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    margin-left: 10%;
+    /* justify-content: space-between; */
+    }
+    .main-container{
+    width: 60.8%;
+    display: flex;
+    flex-direction: column;  
+    background:  #ffc3c3;
+    }
+    .box-yy{
+    border: 1px solid #ffc3c3;
+    height: 169px;
+    background: #fff;
+    
+    }
+    .benefit-txt{
+      margin-top: 5%;
+    margin-left: 10%;
+    font-size: 14px;
+    display: flex;
+    flex-direction: column;
+    }
+    .bold-bene-txt{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 3%;
+    }
+    .plans-btn{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-top: 5%;  
+    }
+    .btn_plans{
+    height: 50px;
+    width: 170px;
+    border-radius: 10px;
+    font-size: 13px;
+    font-weight: bold;
+    background: #1354dc;
+    color: #fff;
+    border: transparent;
+    }
+    
