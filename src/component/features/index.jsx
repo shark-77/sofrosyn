@@ -4,7 +4,7 @@ import './features.css';
 export default function Features() {
   return (
     <>
-        <div className="Section_3">
+        <div className="Section_3" id="features">
             <div className="deck-content">
                 <p>
                     <span className="deck-span"> Featured Projects</span>               

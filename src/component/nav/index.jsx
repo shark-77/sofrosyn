@@ -14,11 +14,11 @@ function Nav() {
         </Link>
 
         <ul className="nav-content">
-            <Link to="#" ><li>Home</li></Link>
-            <Link to="#" ><li>How it works</li></Link>
-            <Link to="#" ><li>Benefits</li></Link>
-            <Link to="#" ><li>Services</li></Link>
-            <Link to="#" ><li>Pricing</li></Link>
+            <Link smooth={true} to="#" ><li>Home</li></Link>
+            <Link smooth={true} to="features" ><li>How it works</li></Link>
+            <Link smooth={true} to="benefits" ><li>Benefits</li></Link>
+            <Link smooth={true} to="services" ><li>Services</li></Link>
+            <Link smooth={true} to="pricing" ><li>Pricing</li></Link>
         </ul>
       </div>    
 

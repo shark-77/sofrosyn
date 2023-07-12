@@ -3,7 +3,7 @@ import './pricing.css';
 export default function Pricing() {
   return (
     <>
-        <div className="section_10">
+        <div className="section_10" id="pricing">
             <div className="sect-content">
                 <p>
                     <span className="sect-span"> Simple, transparent pricing</span>               

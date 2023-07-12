@@ -3,7 +3,7 @@ import './benefits.css';
 
 export default function Benefits() {
   return (
-    <div className="section_7">
+    <div className="section_7" id="benefits">
         <div className="section-content">
             <p>
                 <span className="section-span"> Benefits of Working with Us</span>               
