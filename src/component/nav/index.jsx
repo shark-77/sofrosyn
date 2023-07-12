@@ -10,7 +10,7 @@ function Nav() {
     <>
       <div className="navcontainer">
         <Link to='https://Sofrosyn.com' className="nav-logo">
-          <img src={brand} alt="img" />
+          <img src='' alt="img" />
         </Link>
 
         <ul className="nav-content">
