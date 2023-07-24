@@ -2,10 +2,11 @@
 .section_1{
     height: 750px;
     width: 100%;
-    background: #1354dc;
+    background: #000000;
     position: relative;
     display: flex;
     flex-direction: column;
+
   }
   .hh12 h1{ 
     text-align: center;
@@ -42,14 +43,77 @@
   .btn-div{
     justify-content: center;
     display: flex;
-    align-items: center;
-    margin-top: 35px;
+    align-items:  center;
+    margin-top: 50px;
   }
-  .btn-section-1{
+  .btn-section-1{ 
     height: 50px;
-    width: 21%;
-    justify-content: space-between;
+    justify-content: center;
     display: flex;
-    margin-top: 2px ;
+    margin-top: 2px;
   }
   
+  .btn-1{
+    border: 1px solid grey;
+    width: 250px;
+  }
+/* 
+  Section-2 */
+
+.deck_content-1{ 
+  height:900px;
+  text-align: center;
+  color: #ffffff;
+  background-color: #000000; 
+  width: 100%;
+  position: relative;
+  bottom: 20px;
+}
+.deck_content-1 p{
+  font-size: 20px;
+  display: flex; 
+  flex-direction: column;
+  gap: 15px;
+  position: relative;
+  top: 50px;
+}
+.deck-span-1{
+  font-size: 50px;
+  font-weight: bold;
+  color: #ffffff;
+  position: relative; 
+}
+.team-container{
+  height: 400px;
+  width: 80%;
+  display: flex;    
+  flex-direction: column;
+  justify-content: space-between;
+  margin-left: 10%;
+  margin-top: 150px;
+}
+.division{
+  height: 200px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+}
+.sub-division{
+  width: 40%;
+  height: 200px;
+  margin-left: 3%;
+  text-align: left;
+}
+.sub-division h2{
+  position: relative;
+  top: 50px;
+}
+.sub-division p{
+  font-size: 18px;
+  font-weight: lighter;
+  text-align: left;
+}
+.fff{
+  margin-top: 80px;
+}

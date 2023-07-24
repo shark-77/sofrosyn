@@ -1,33 +1,45 @@
 /* SECTION-8 */
 .section_8{
-    height: 900px;
+    height: 155vh;
+    width: 100%;
     position: relative;
-    top: 100px;
+    bottom: 170px;
+    background-color: #000000;
   }
   
   .sect-content{
+    display: flex;
+    color: #ffffff;
+    flex-direction: row;
+    align-items: center;
     justify-content: center;
     text-align: center;
-    align-items: center;
-    color: #121212;
+    position: relative;
+    top: 100px;
+
+  }
+  .sect-content p{
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    color: #ffffff;
   }
   .sect-span{
-    font-size: 44px;
+    font-size: 40px;
     font-weight: bold;
-    color: #000000;
+    color: #ffffff;
   }
   .sect-content p{
     font-size: 22px;
     display: flex;
     flex-direction: column;
-    margin-top: 5%;
-    gap: 25px;
   }
-  .services_container{
+    .services_container{
     width: 80%;
     margin-left: 10%;
-    position: relative;
-    height: 510px;
+    margin-top: 160px;
+    height: 600px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -41,20 +53,24 @@
   .column-section h2{
     margin-left: 10%;
     margin-top: 6%;
-    font-size: 25px;
-    color: #000000e5;
+    font-size: 20px;
+    color: #000000;
   }
   .column-section{
     height: 70px;
-    background: #f5f5f5;   
+    background: grey; 
+    border-radius: 10px;
+    border: 2px solid #ffffff;  
   }
   .column-section-xx h2{
     margin-left: 10%;
-    font-size: 23px;
-    color: #000000e5;
+    font-size: 20px;
+    color: #000000;
   }
   .column-section-xx{ 
     height: 80px;
-    background: #f5f5f5;
+    background: grey;
+    border-radius: 10px;
+    border: 2px solid #ffffff;  
   }
   

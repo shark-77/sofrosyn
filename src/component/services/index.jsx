@@ -1,12 +1,12 @@
 import './services.css';
-import React from 'react'
+// import React from 'react'
 
 export default function Services() {
   return (
     <div className="section_8" id="services">
         <div className="sect-content">
             <p>
-                <span className="section-span"> Services</span>               
+                <span className="sect-span"> Services</span>               
                 We offer the best services with affordable rates
             </p>     
         </div>
@@ -78,6 +78,7 @@ export default function Services() {
                 </div>
             </div> 
         </div>
+    
     </div> 
 )
 }

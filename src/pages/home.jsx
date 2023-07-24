@@ -1,6 +1,6 @@
-import React from 'react'
-import DeckComponent from "../component/deck";
+// import React from 'react';
 import Nav from '../component/nav';
+
 import Hero from '../component/hero';
 import Features from '../component/features';
 import Call from '../component/call';
@@ -12,13 +12,10 @@ import Footer from '../component/footer';
 function Home() {
   return (
     <>
-
-        <Nav/>
-
+      <Nav/>
+        
         <Hero/>
 
-        <DeckComponent/>
-        
         <Features/>
 
         <Call/>
@@ -29,10 +26,9 @@ function Home() {
 
         <Pricing/>
 
-
-        <Footer/>
+      <Footer/>
     </>
-  )
+  );
 }
 
 export default Home;

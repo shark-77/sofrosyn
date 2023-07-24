@@ -1,0 +1,16 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_120_2037" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="100" height="100">
+<rect width="100" height="100" fill="#DED373"/>
+</mask>
+<g mask="url(#mask0_120_2037)">
+<path d="M13 78L25.9904 100.5H0.00961876L13 78Z" fill="#DED373"/>
+<path d="M40 78L52.9904 100.5H27.0096L40 78Z" fill="#DED373"/>
+<path d="M67 78L79.9904 100.5H54.0096L67 78Z" fill="#DED373"/>
+<path d="M94 78L106.99 100.5H81.0096L94 78Z" fill="#DED373"/>
+<path d="M39.4805 77.9904L26.4901 100.49L13.4997 77.9904L39.4805 77.9904Z" fill="#DED373"/>
+<path d="M12.4795 77.9904L-0.510891 100.49L-13.5013 77.9904L12.4795 77.9904Z" fill="#DED373"/>
+<path d="M66.4805 77.9904L53.4901 100.49L40.4997 77.9904L66.4805 77.9904Z" fill="#DED373"/>
+<path d="M93.4805 77.9904L80.4901 100.49L67.4997 77.9904L93.4805 77.9904Z" fill="#DED373"/>
+<path d="M120.48 77.9904L107.49 100.49L94.4997 77.9904L120.48 77.9904Z" fill="#DED373"/>
+</g>
+</svg>

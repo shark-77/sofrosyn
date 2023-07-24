@@ -1,285 +1,73 @@
 
 /* SECTION-10 */
 .section_10{
-    height: 1430px;
-  }                      
-  .sect-content{
-    justify-content: center;
-    text-align: center;
-    align-items: center;
-    color: #121212;
-    height: 250px; 
-  }
-  .sect-span{
-    font-size: 44px;
-    font-weight: bold;
-    color: #000000;
-  }
-  .sect-content p{
-    font-size: 22px;
+    height: 70vh;
+    background-color: #ffffff;
+    width: 100%;
     display: flex;
     flex-direction: column;
-    margin-top: 5%;
-    gap: 35px;
-  }
-  .card_body{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    width: 80%;
-    height: 800px;
-    margin-left: 10%; 
-    position: relative;
-  }
-  .card-yyy{
-    width: 32%;
-    background:  #1354dc;
-  }
-  #pop{
-    height: 40px;
-    width: 70px;
-    border-radius: 12px;
+    align-items: center;
+    justify-content: center;
     text-align: center;
-    align-items: center;
-    display: flex;
-    justify-content: center;
     position: relative;
-    left: 70%;
-    top: 3%;
-    background: #ffffff33;
-    color: #fff ;
-  }
-  .icon-row{
-    width: 80%;
-    margin-left: 10%;
-    display: flex;
-    flex-direction: row;
-  }
-  .icontext{
-    margin-left: 5%;
-    align-items: center;
-    display: flex;
-    justify-content: center;
-    color: #fff;
-  }
-  .card-yyy p{
-    margin-left: 10%;
-    color: #d9dbe9;
-    font-size: 16px;
-  }
-  .card-yyy h1{
-    margin-left: 10%;
-    color: #fff;
-  }
-  .card-yyy h3{
-    margin-left: 10%;
-    color: #fff;
-  }
-  .check{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: left;
-    width: 70%;
-    margin-left: 10%;
-  }
-  .check p{
-    font-size: 12px;
-    color: #fff;
-  }
-  .btn-start{
-    align-items: center;
-    display: flex;
-    justify-content: center;
-    width: 80%;
-    height: 60px;
-    background: #fff;
-    border-radius: 10px;
-    border: transparent;
-    color: #1354dc;
-    font-size: 14px;
-    font-weight: bold;
-    margin-left: 10%;
-    margin-top: 10%;
-  }
-  .btn-start-xxx{
-    align-items: center;
-    display: flex;
-    justify-content: center;
-    width: 80%;
-    height: 40px;
-    background: #1354dc;
-    border-radius: 10px;
-    border: transparent;
-    color:#fff;
-    font-size: 14px;
-    font-weight: bold;
-    margin-left: 10%;
-    margin-top: 1%;
-  }
-  /* card-yyy-aa */
-  .card-yyy-aa{
-    width: 32%;
-    background:  #ffffff;
-    box-shadow: 0 2px 12px rgb(20 20 43 / 8%);
-    border: 1px solid #eff0f7;
-  }
-  .card-yyy-aa p{
-    margin-left: 5%;
-    color: #000000;
-    font-size: 16px;
-    /* border: 1px solid red; */
-  }
-  .p-txt{
-    padding-left: 10px;
-    border:transparent;
-  
-  }
-  .card-yyy-aa h1{
-    margin-left: 10%;
-    color: #000000;
-  }
-  .card-yyy-aa h3{
-    margin-left: 10%;
-    color: #000000;
-  }
-  #pop-x{
-    height: 40px;
-    width: 70px;
-    border-radius: 12px;
-    text-align: center;
-    align-items: center;
-    display: flex;
-    justify-content: center;
-    position: relative;
-    left: 70%;
-    top: 3%;
-  
-  }
-  .icontext-x{
-    margin-left: 5%;
-    align-items: center;
-    display: flex;
-    justify-content: center;
-    color: #000000;
-  }
-  #check{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: left;
-    width: 70%;
-    margin-left: 10%;
-  }
-  #check p{
-    font-size: 12px;
-    color: #000000;
-  }
-  .btn-btn{
-    margin-top: 55%;
-  }
-  .start{
-    align-items: center;
-    display: flex;
-    justify-content: center;
-    width: 80%;
-    height: 60px;
-    background: #1354dc; 
-    border-radius: 10px;
-    border: transparent;
-    color:#fff;
-    font-size: 14px;
-    font-weight: bold;
-    margin-left: 10%;
-    margin-top: 10%;
-  }
-  .btn-xxx{
-    align-items: center;
-    display: flex;
-    justify-content: center;
-    width: 80%;
-    height: 40px;
-    background: #fff;
-    border-radius: 10px;
-    border: transparent;
-    color: #1354dc;
-    font-size: 14px;
-    font-weight: bold;
-    margin-left: 10%;
-    margin-top: 1%;
-  }
+    bottom: 170px;
+  }                      
   /* black-section */
   .black-sector{
-    height: 250px;
+    height: 300px;
     width: 80%;
-    margin-left: 10%;
-    margin-top: 1.5%;
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-content: center;
     justify-content: center;
-    background: #1e1e1e;
+    background: grey;
   }
   .black-sector h1{
-    color: #ffffff;
+    color: #000000;
   }
-  .black-sector h2{
-    color: #ffffffdc;
+  .black-sector span{
+    font-size: 25px;
+    font-weight: 350;
+    color: #000000;
   }
   #btn-start{
     width: 25%;
     height: 60px;
-    background: #fff;
+    background: #000000;
     border-radius: 10px;
-    border: transparent;
-    color: #1354dc;
+    border: 1px solid white;
+    color: #ffffff;
     font-size: 14px;
     font-weight: bold;
-  }
-  .null{
-    border: transparent;
-    height: 80px;
-  }
-  /* Section_11
-  .faq-section{
-    border: 1px solid rgb(0, 255, 8);
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-  }
-  .faq-section h1{
-    font-size: 50px;
-  }
-  .faq-content{
-    border: 1px solid #ebebeb;
     position: relative;
-    width: 80%;
-    height: 800px;
-    background-color:#f5f5f5;
-    border-radius: 10px;
-  } */
+    left: 370px;
+  }
   
   /* Section_9 */
   .design-container{
-    height: 600px;
+    position: relative;
+    bottom: 170px;
+    height: 700px;
     display: flex;
     text-align: center;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background: #0b111f;
-    font-size: 25px;
-    font-family: Aeonik;
-    color: #fff;
+    background: grey;
+    font-size: 25px;  
+    color:#000000;
+    width: 100%;
+
   }
   .bold_btn{
-    height: 50px;
+    height: 70px;
     width: 250px;
     border-radius: 12px;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: bold;
-    color: #1354dc;
+    color: #000000;
+    background-color: #ffffff;
+    border: 2px solid #000000;
   }
   .line-xyz{
     margin-top: 30px;
