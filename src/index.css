@@ -5,10 +5,68 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-
 }
-
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+@media (max-width:1160px) {
+  .section_1{
+    width: 100rem;
+  }
+  .deck_content-1{
+    width: 100rem;                                  
+  }
+  .hh12 h1{
+    font-size: 4rem;
+  }
+  .deck-content-2{
+    width: 100rem;
+    height: 232ch;
+  }
+  .photo-div{
+    height: 130ch;
+  }
+  .pink-container{
+    top: 90px;
+  }
+  .deck-content-1{
+    top:  40px;
+    width: 100rem;
+    height: 110ch;
+  }
+  .row-1{
+    top: 10%;
+  }
+  .section_7{
+    width: 100rem;
+    height: 130ch;
+    bottom: 60px;
+  }
+  .section-content p{
+    padding-top: 90px;
+    height: 100px;
+    top: 35%;
+  }
+  .section_8{
+     width: 100rem;
+    height: 130ch;
+  }
+  .section_10{
+    height: 70ch;
+    width: 100rem;
+  }
+  .design-container{
+    width: 100rem;
+  }
+  .footer_area{
+    width: 100rem;
+    height: 100ch;
+  }
+}
+@media (max-width:750px){
+  .btn_view{
+    width: 20ch;
+  }
 }

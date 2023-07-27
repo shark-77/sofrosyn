@@ -28,9 +28,7 @@ export default function Services() {
                     <h2>Animations</h2>
                 </div>
                 <div className="column-section-xx">
-                    <h2>Social Media<br />
-                        Graphics
-                    </h2>
+                    <h2>Social Media Graphics </h2>
                 </div>
             </div>
             <div className="column-xxx">

@@ -8,7 +8,7 @@ export default function Pricing() {
                 <h1>Talk to us</h1>
                 <span>Learn more about the best pricing plan that works for you</span>
                 <br /><br />
-                <button id="btn-start">Book a call</button>
+                <button className="btn-start">Book a call</button>
             </div>
            
         </div>

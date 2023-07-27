@@ -57,18 +57,18 @@
     color: #000000;
   }
   .column-section{
-    height: 70px;
+    height: 60px;
     background: grey; 
     border-radius: 10px;
     border: 2px solid #ffffff;  
   }
   .column-section-xx h2{
     margin-left: 10%;
-    font-size: 20px;
+    font-size: 19px;
     color: #000000;
   }
   .column-section-xx{ 
-    height: 80px;
+    height: 60px;
     background: grey;
     border-radius: 10px;
     border: 2px solid #ffffff;  

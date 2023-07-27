@@ -30,7 +30,7 @@
     font-weight: 350;
     color: #000000;
   }
-  #btn-start{
+  .btn-start{
     width: 25%;
     height: 60px;
     background: #000000;
@@ -40,7 +40,7 @@
     font-size: 14px;
     font-weight: bold;
     position: relative;
-    left: 370px;
+    left: 380px;
   }
   
   /* Section_9 */
